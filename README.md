@@ -5,10 +5,15 @@ Welcome to my portfolio project! This is where I showcase my projects, skills, a
 Table of Contents
 
 About
+
 Features
+
 Installation
+
 Usage
+
 Contributing
+
 
 About.
 As a frontend developer student, I've completed my first year of study, delving into various aspects of web development. Throughout this journey, I've gained proficiency in HTML, CSS, JavaScript, design principles, web and communication technology, project methodology, programming foundations, interaction design, and content management systems.
