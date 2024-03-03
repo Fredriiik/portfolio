@@ -3,7 +3,7 @@
     font-size: 74px;
   }
   h2 {
-    font-size: 34px;
+    font-size: 28px;
   }
 
   .nav-left {
@@ -40,7 +40,7 @@
     left: 2vh;
   }
   .menu-container {
-    top: 45%;
+    top: 43vh;
     left: 2vh;
   }
 
@@ -63,13 +63,13 @@
   }
   .about-text {
     position: absolute;
-    width: 55%;
+    width: 40%;
     top: 100px;
     left: 3vh;
     right: 3vh;
   }
   .about-image {
-    top: 250px;
+    top: 230px;
     left: 240px;
   }
 
