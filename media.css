@@ -1,0 +1,105 @@
+@media (max-width: 768px) {
+  h1 {
+    font-size: 74px;
+  }
+  h2 {
+    font-size: 34px;
+  }
+
+  .nav-left {
+    top: 30px;
+    left: 48px;
+    width: 90%;
+    height: 20px;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .nav-left-item {
+    margin-right: 20px;
+    font-size: 9px;
+    transform: none;
+  }
+
+  .nav-line {
+    height: 60px;
+    margin: 0 20px;
+    transform: rotate(270deg);
+  }
+
+  .nav-left-copy {
+    font-size: 12px;
+    transform: none;
+    margin-left: 50%;
+  }
+  .homepage-small-info {
+    width: 50%;
+    top: 120px;
+    left: 5vh;
+  }
+  .menu-container {
+    top: 35%;
+    left: 5vh;
+  }
+
+  .work-small-info {
+    position: absolute;
+    width: 70%;
+    top: 100px;
+    left: 10vh;
+  }
+  .work-small-info p {
+    margin-left: 10px;
+  }
+  .latest-work {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 70%;
+    top: 450px;
+    left: 10vh;
+  }
+  .about-text {
+    position: absolute;
+    width: 55%;
+    top: 100px;
+    left: 3vh;
+  }
+  .about-image {
+    top: 270px;
+    left: 240px;
+  }
+
+  .image-of-me {
+    width: 150px;
+    height: 200px;
+  }
+  .about-text-long {
+    width: 390px;
+    margin-top: 20px;
+  }
+  .contact-small-info {
+    left: 10px;
+    width: 80%;
+  }
+}
+@media (max-width: 576px) {
+  .menu-container {
+    top: 50%;
+    left: 20vh;
+  }
+  .homepage-small-info {
+    width: 50%;
+    top: 100px;
+    left: 20vh;
+  }
+  .about-image {
+    top: 250px;
+    left: 280px;
+  }
+
+  .image-of-me {
+    width: 150px;
+    height: 220px;
+  }
+}
