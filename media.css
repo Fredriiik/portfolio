@@ -31,17 +31,17 @@
   .nav-left-copy {
     font-size: 12px;
     transform: none;
-    margin-left: 50%;
+    margin-left: 40%;
   }
   .homepage-small-info {
     position: absolute;
-    width: 50%;
+    width: 60%;
     top: 120px;
-    left: 5vh;
+    left: 2vh;
   }
   .menu-container {
-    top: 35%;
-    left: 5vh;
+    top: 45%;
+    left: 2vh;
   }
 
   .work-small-info {
@@ -66,6 +66,7 @@
     width: 55%;
     top: 100px;
     left: 3vh;
+    right: 3vh;
   }
   .about-image {
     top: 250px;
