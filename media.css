@@ -11,7 +11,7 @@
     left: 48px;
     width: 90%;
     height: 20px;
-    position: relative;
+    position: absolute;
     flex-direction: row;
     align-items: center;
   }
@@ -34,6 +34,7 @@
     margin-left: 50%;
   }
   .homepage-small-info {
+    position: absolute;
     width: 50%;
     top: 120px;
     left: 5vh;
@@ -67,7 +68,7 @@
     left: 3vh;
   }
   .about-image {
-    top: 270px;
+    top: 250px;
     left: 240px;
   }
 
@@ -76,7 +77,7 @@
     height: 200px;
   }
   .about-text-long {
-    width: 390px;
+    width: 370px;
     margin-top: 20px;
   }
   .contact-small-info {
