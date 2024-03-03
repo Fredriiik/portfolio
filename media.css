@@ -11,6 +11,7 @@
     left: 48px;
     width: 90%;
     height: 20px;
+    position: relative;
     flex-direction: row;
     align-items: center;
   }
@@ -81,25 +82,5 @@
   .contact-small-info {
     left: 10px;
     width: 80%;
-  }
-}
-@media (max-width: 576px) {
-  .menu-container {
-    top: 50%;
-    left: 20vh;
-  }
-  .homepage-small-info {
-    width: 50%;
-    top: 100px;
-    left: 20vh;
-  }
-  .about-image {
-    top: 250px;
-    left: 280px;
-  }
-
-  .image-of-me {
-    width: 150px;
-    height: 220px;
   }
 }
