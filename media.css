@@ -2,6 +2,7 @@
   h1 {
     font-size: 74px;
   }
+
   h2 {
     font-size: 28px;
   }
@@ -33,14 +34,16 @@
     transform: none;
     margin-left: 40%;
   }
+
   .homepage-small-info {
     position: absolute;
     width: 60%;
     top: 120px;
     left: 2vh;
   }
+
   .menu-container {
-    top: 43vh;
+    top: 53vh;
     left: 2vh;
   }
 
@@ -50,17 +53,20 @@
     top: 100px;
     left: 10vh;
   }
+
   .work-small-info p {
     margin-left: 10px;
   }
+
   .latest-work {
     display: flex;
     flex-direction: column;
     position: absolute;
     width: 70%;
-    top: 450px;
+    top: 700px;
     left: 10vh;
   }
+
   .about-text {
     position: absolute;
     width: 40%;
@@ -68,6 +74,7 @@
     left: 3vh;
     right: 3vh;
   }
+
   .about-image {
     top: 230px;
     left: 240px;
@@ -77,12 +84,14 @@
     width: 150px;
     height: 200px;
   }
+
   .about-text-long {
     width: 370px;
     margin-top: 20px;
   }
+
   .contact-small-info {
-    left: 10px;
+    left: -50px;
     width: 80%;
   }
 }
