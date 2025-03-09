@@ -35,8 +35,11 @@ My portfolio reflects my growth and showcases various projects that demonstrate 
 ## 🌟 Features
 
 ✅ **Project Showcase** – A collection of my completed projects with descriptions, technologies used, and live/demo links.
+
 ✅ **Skills & Technologies** – An overview of the tools and frameworks I have mastered.
+
 ✅ **Contact Information** – Easy ways to connect with me for collaboration or inquiries.
+
 
 ---
 
