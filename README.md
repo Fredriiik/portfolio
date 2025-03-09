@@ -1,4 +1,4 @@
-![Alt text](images/portfolio.png
+![Alt text](images/portfolio.png)
 
 # 🎨 My Portfolio
 
